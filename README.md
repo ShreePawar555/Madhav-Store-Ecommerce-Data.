@@ -1,4 +1,10 @@
 # Madhav-Store-Ecommerce-Data.
+
+Objective:
+Owner of Madhav Store wants us to help them create 
+a report **Dashboard** to track and Analyze their 
+Online Sales across Country.
+
 Analysed Ecommerce Sales Data Created a Interactive Dashboard using Power BI.
 
 Project Learnings:-
